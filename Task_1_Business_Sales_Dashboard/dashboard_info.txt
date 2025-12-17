@@ -1,1 +1,4 @@
-Power BI / Excel dashboard file will be uploaded here.
+Tool: Power BI
+Dataset: Superstore E-commerce Data
+Task: Business Sales Dashboard
+
